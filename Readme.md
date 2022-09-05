@@ -32,15 +32,3 @@
 ![Git](https://img.shields.io/badge/-git-000?&logo=git)
 ![Postman](https://img.shields.io/badge/-postman-000?&logo=postman)
 
-## Top repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bruno127&repo=to-do-app&theme=github_dark)](https://github.com/bruno127/to-do-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bruno127&repo=weatherapp&theme=github_dark)](https://github.com/bruno127/weatherapp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bruno127&repo=restaurant-page&theme=github_dark)](https://github.com/bruno127/restaurant-page)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bruno127&repo=Library&theme=github_dark)](https://github.com/bruno127/Library)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bruno127&repo=Admin-Dashboard&theme=github_dark)](https://github.com/bruno127/Admin-Dashboard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bruno127&repo=Sign-up-form&theme=github_dark)](https://github.com/bruno127/Sign-up-form)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bruno127&repo=Calculator&theme=github_dark)](https://github.com/bruno127/Calculator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bruno127&repo=Etch-a-Sketch&theme=github_dark)](https://github.com/bruno127/Etch-a-Sketch)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bruno127&repo=Rock-paper-scissors&theme=github_dark)](https://github.com/bruno127/Rock-paper-scissors)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bruno127&repo=landing-page&theme=github_dark)](https://github.com/bruno127/landing-page)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bruno127&repo=odin-recipes&theme=github_dark)](https://github.com/bruno127/odin-recipes)
