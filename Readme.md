@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
 
-🌱 I’m currently learning **Full Stack Javascript at ["The Odin Project"](https://www.theodinproject.com/dashboard) course.**
-
 👨‍💻 All of my projects are available at [my Github repo](https://github.com/bruno127?tab=repositories).
 
 📫 How to reach me **bvasilj@gmail.com**.
